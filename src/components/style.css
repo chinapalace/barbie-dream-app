@@ -1,0 +1,7 @@
+.swatchList {
+  display: flex;
+}
+.swatchList li {
+  list-style: none;
+  height: 65px;
+}
